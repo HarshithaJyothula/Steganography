@@ -1,1 +1,1 @@
-# Steganography
+"Steganography project: Hide secret information within images using Python. Conceal text messages or files in images, ensuring secure data transmission. Beginner-friendly and ideal for learning image processing and encryption concepts."
